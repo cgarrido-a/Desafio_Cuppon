@@ -1,0 +1,38 @@
+body{
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+h5{
+  font-weight: 300;
+  color: #212529;
+}
+
+p, i{
+  color: #707070;
+}
+
+.oferta, .titulo-form{
+  font-weight: 500;
+}
+
+.h4{
+  color: #28a745;
+}
+.card{
+  float:none;
+  margin: 0 auto;
+  height: 30rem;
+}
+
+.logo-white{
+height: 4rem;
+}
+
+.logo-black{
+  height: 2rem;
+}
+
+.input-center{
+  max-width: 35rem;
+}
